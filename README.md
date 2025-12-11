@@ -14,3 +14,7 @@ Logout: Exit the application safely.
 app.py: Main application script; handles user interaction and program flow.
 Functions.py: Contains all helper functions for login, password hashing, storage, and management.
 volt.json: JSON file used to store user credentials and passwords (created automatically when first password is added).
+
+# Login Credential
+User Name: admin
+Password: admin
